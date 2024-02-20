@@ -1,8 +1,7 @@
 // 设置优选地址，不带端口号默认8443，不支持非TLS订阅生成
 let addresses = [
-	'www.visa.com.hk:2096#假装是香港',
-	'icook.tw:2053#假装是台湾',
-	'cloudflare.cfgo.cc#真的是美国'
+	'icook.tw:2053#台湾',
+	'cloudflare.cfgo.cc#美国'
 ];
 
 // 设置优选地址api接口
