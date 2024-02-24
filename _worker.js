@@ -1,7 +1,7 @@
 // 设置优选地址，不带端口号默认8443，不支持非TLS订阅生成
 let addresses = [
-	'icook.tw:2053#记住关注抖音号',
-	'cloudflare.cfgo.cc#onlyno999_更新中'
+	'fbi.gov:8443#记住关注抖音号',
+	'cloudflare.cfgo.cc:8443#onlyno999_更新中'
 ];
 
 // 设置优选地址api接口
